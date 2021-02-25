@@ -1,0 +1,3 @@
+insert into user (id, username, password, role) values (1, 'fabricio', '$2y$12$8q.3MgtDhFGnDACU36kmCOpfMK/RmtPylnLEjyoUh1uQNMLouNF8O', 'ADMIN');
+insert into user (id, username, password, role) values (2, 'grazi', '$2y$12$P3FUTsr7RJeBmXInCzwt/ee2qcbImAhGOcd/i0KHaPIOml9JAD89q', 'ADMIN');
+insert into user (id, username, password, role) values (3, 'felipe', '$2y$12$P3FUTsr7RJeBmXInCzwt/ee2qcbImAhGOcd/i0KHaPIOml9JAD89q', 'USER');
